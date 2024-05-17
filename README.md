@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Doğukan DAY===================================================================================================================================as Full Stack Developer-----------------------I started coding 2 years ago. During my journey of learning Java, I learned a little bit of Python and a lot of C#. After trying to make a few games with Unity, I switched to the frontend part, that is, html, css, js, and then I learned react.js and next.js as frameworks. And then I started working as a freelancer, then I started learning .NET and MVC, and now I'm taking a backend developer course on Java from Patika.dev.* 🌍  I'm based in Istanbul* ✉️  You can contact me at [dogukanday0@gmail.com](mailto:dogukanday0@gmail.com)* 🧠  I'm learning .NET, Spring Boot, Maven, Kubernetes* 🤝  I'm open to collaborating on the project which make me better than now* ⚡  I love driving cars and riding motorcycles (I can use all land vehicles)
+Hi! My name is Doğukan DAY as Full Stack Developer
+I started coding 2 years ago. During my journey of learning Java, I learned a little bit of Python and a lot of C#. After trying to make a few games with Unity, I switched to the frontend part, that is, html, css, js, and then I learned react.js and next.js as frameworks. And then I started working as a freelancer, then I started learning .NET and MVC, and now I'm taking a backend developer course on Java from Patika.dev.* 
+🌍  I'm based in Istanbul* 
+✉️  You can contact me at [dogukanday0@gmail.com](mailto:dogukanday0@gmail.com)* 
+🧠  I'm learning .NET, Spring Boot, Maven, Kubernetes* 
+🤝  I'm open to collaborating on the project which make me better than now* 
+⚡  I love driving cars and riding motorcycles (I can use all land vehicles)
 
 <a href="https://www.github.com/dogukanday" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dogukanday?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/dogukanday13" target="_blank" rel="noreferrer"><img
